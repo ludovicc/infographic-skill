@@ -8,5 +8,4 @@ This is just a fork of the skills in https://github.com/antvis/Infographic.git t
 
 You can now use an agent to generate beautiful slides with infographics.
 
-Inspired by this article: [From ArcKit to McKinsey-Style Infographics in an Afternoon](https://medium.com/arckit/from-arckit-to-mckinsey-style-infographics-in-an-afternoon
--dbe0584df47a)
+Inspired by this article: [From ArcKit to McKinsey-Style Infographics in an Afternoon](https://medium.com/arckit/from-arckit-to-mckinsey-style-infographics-in-an-afternoon-dbe0584df47a)
